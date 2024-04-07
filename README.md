@@ -9,4 +9,8 @@ Products lie at the heart of retail operations, each characterized by a ProductI
 
 Categories function to systematically organize the wide spectrum of products within the retail system. Each category is distinguished by a CategoryID, Name, and Description, acting as a simple yet crucial element of the system. The interplay between categories and products is critical, facilitating the structured organization and easy access of product information.
 ![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/c5e11d45-318e-460a-842f-b35fb9102f6d)
+![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/6f18249e-6d05-4740-aa0f-822905fddb5e)
+![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/e85f6b56-6a5a-47ed-8801-1e5a0f926293)
+![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/2bf5925c-c278-4ba6-98a8-db76f6053c5a)
+![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/389a533c-e5f3-4b29-bb49-5f234147ace2)
 
