@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://api.yourinventory.com/v1",
+      "url": "https://api.InventoryManagement.com/v1",
       "description": "Main production server"
     }
   ],
