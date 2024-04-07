@@ -16,5 +16,9 @@ Categories function to systematically organize the wide spectrum of products wit
 ![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/9b721ce7-1e20-472a-b350-2e57ae1525f4)
 ![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/15346c67-f757-4c6a-bacf-c86c5da73a74)
 ![image](https://github.com/Ahmadyahya254/Inventory-Management-System/assets/119107643/e3873570-6362-4619-80a3-e636b2b99f91)
+for all tabel includ this 404 Not Found
+500 Internal Server Error
+501 Not Implemented
+
 
 
