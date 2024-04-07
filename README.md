@@ -1,3 +1,5 @@
+Ahmad Atta 
+1191194
 # Inventory-Management-System
 Inventory Management System: Optimizing Retail Business through Comprehensive Management of Customers, Orders, Products, and Categories
 The Inventory Management System is a structured software solution crafted to enhance and streamline the operations of a retail business. Central to this system are four key entities: Customers, Orders, Products, and Categories, each playing a pivotal role in the smooth functioning of retail operations.
